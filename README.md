@@ -42,11 +42,7 @@ This project is an IoT-based automated plant watering system that monitors soil 
 | **Relay Module**         | `D2`           | IN pin to GPIO D2       |
 | **5V Pump**              | Relay-controlled | External 5V power     |
 
-### **Circuit Notes**
-1. Ensure the pump is connected via the relay to prevent high current draw on the NodeMCU.
-2. The soil moisture sensor outputs analog values; connect it to the analog pin `A0`.
-3. The DHT22 sensor uses digital communication and requires a pull-up resistor (typically 10kΩ) on the data line.
-4. Use a flyback diode across the pump terminals to protect the relay and NodeMCU from voltage spikes.
+![circuit_image](https://github.com/user-attachments/assets/84e2c442-b8fd-4089-89e8-ba6e713bbefc)
 
 ---
 
