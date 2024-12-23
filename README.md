@@ -42,7 +42,7 @@ This project is an IoT-based automated plant watering system that monitors soil 
 | **Relay Module**         | `D2`           | IN pin to GPIO D2       |
 | **5V Pump**              | Relay-controlled | External 5V power     |
 
-![circuit_image](https://github.com/user-attachments/assets/84e2c442-b8fd-4089-89e8-ba6e713bbefc)
+![circuit_image](https://github.com/user-attachments/assets/4b4e3cec-9351-4d48-b507-76a14252dccd)
 
 ---
 
